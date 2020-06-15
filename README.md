@@ -6,8 +6,9 @@ How does it work?
 The project is made up of a stack of 10 Lissajous curves with a lobe ratio of 2:1 rotating
 at the same phase angle about a center. <br>
 The curves are vertically stacked by maintaining a constant relative width whiles varying the relative height 
-of each curve.  
+of each curve. <br>
 
+View a demo of the project at https://codepen.io/niitettehtsuru/pen/yLeJwrG<br>
 <img width="1345px" height="450px"  src ="img/img.png">
  
 ## Getting Started
